@@ -43,5 +43,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bruno-Aparecido-Rodrigues/Bruno-Aparecido-Rodrigues/output/github-contribution-grid-snake.svg" />
 </div>
 <hr/>
-
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7203F7&random=false&width=435&lines=Thank+you+for+visiting;%3A)" alt="Typing SVG" />
+</h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7203F7FF&section=footer"/>
