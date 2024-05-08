@@ -6,7 +6,7 @@
 </h3>
 <hr/>
 
-<h3 align="center">_A guy with nothing better to do_</h3>
+<h3 align="center">~A guy with nothing better to do~</h3>
 <h3 align="center">📓 currently studying System Development<br>at ETEC Zona Leste</h3>
 
 <br/>
@@ -28,7 +28,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Bruno-Aparecido-Rodrigues&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=7203F7FF" alt="readme stats" />
 </div>
 <br> 
-<h3 align="center">Ferramentas de utilização</h3>
+<h3 align="center">Tools that I work with</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,vscode,github" align="center" />
     <img src="https://skillicons.dev/icons?i=figma,kotlin,c,java,php,mysql,laravel,tailwind" align="center" /><br>
