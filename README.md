@@ -6,6 +6,9 @@
 </h3>
 <hr/>
 
+<h3 align="center">_A guy with nothing better to do_</h3>
+<h3 align="center">📓 currently studying System Development<br>at ETEC Zona Leste</h3>
+
 <br/>
 <div align="center"> 
   <a href="mailto:aparecidobruno749@gmail.com">
