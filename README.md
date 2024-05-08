@@ -31,7 +31,7 @@
 <h3 align="center">Ferramentas de utilização</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,vscode,github" align="center" />
-    <img src="https://skillicons.dev/icons?i=figma,kotlin,c,java,mysql,laravel,tailwind" align="center" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,kotlin,c,java,mysql,laravel,blade,tailwind" align="center" /><br>
 </div>
 
 <br/>
