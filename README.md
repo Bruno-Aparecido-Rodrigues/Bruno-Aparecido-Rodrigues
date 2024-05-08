@@ -20,9 +20,9 @@
 
 <div align="center">  
  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Aparecido-Rodrigues&layout=compact&hide_border=true&bg_color=0d1117&text_color=7203F7FF&title_color=7203F7FF" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Aparecido-Rodrigues&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF" />
   
-<img  src="https://github-readme-stats.vercel.app/api?username=Bruno-Aparecido-Rodrigues&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=fefe00&text_color=7203F7FF&title_color=7203F7FF" alt="readme stats" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Bruno-Aparecido-Rodrigues&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=7203F7FF" alt="readme stats" />
 </div>
 <br> 
 <h3 align="center">Ferramentas de utilização</h3>
