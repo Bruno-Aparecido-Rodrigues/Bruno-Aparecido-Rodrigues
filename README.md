@@ -46,4 +46,5 @@
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7203F7&random=false&width=435&lines=Thank+you+for+visiting;%3A)" alt="Typing SVG" />
 </h3>
+<center><img width="130" src="sprites/Tails-Sonic.gif"></center>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7203F7FF&section=footer"/>
