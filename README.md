@@ -28,8 +28,8 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Bruno-Aparecido-Rodrigues&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=7203F7FF" alt="readme stats" />
 </div>
 <br> 
-<h3 align="center">Tools that I work with</h3>
 <div align="center">
+<h3>Tools that I work with</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,gamemakerstudio,kotlin&perline=6" align="center" /><br>
     <img src="https://skillicons.dev/icons?i=java,php,mysql,laravel,tailwind&perline=5" align="center" /><br>
     <img src="https://skillicons.dev/icons?i=figma,github,vscode&perline=3" align="center" /><br>
