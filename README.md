@@ -45,6 +45,6 @@
 </div>
 <hr/>
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7203F7&random=false&width=435&lines=Thank+you+for+Visiting;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%3A)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7203F7&random=false&width=435&lines=Thank+you+for+Visiting;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%3A)" alt="Typing SVG" />
 </h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7203F7FF&section=footer"/>
