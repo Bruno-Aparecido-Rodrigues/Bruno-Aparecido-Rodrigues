@@ -30,9 +30,9 @@
 <br> 
 <div align="center">
 <h3>Tools that I work with</h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,gamemakerstudio,kotlin&perline=6" align="center" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,gamemakerstudio,kotlin&perline=6" align="center" /><br>
     <img src="https://skillicons.dev/icons?i=java,php,mysql,laravel,tailwind&perline=5" align="center" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode&perline=3" align="center" /><br>
+    <img src="https://skillicons.dev/icons?i=github,vscode&perline=3" align="center" /><br>
 </div>
 
 <br/>
