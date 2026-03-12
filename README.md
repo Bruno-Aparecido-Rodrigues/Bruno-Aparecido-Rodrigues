@@ -7,7 +7,7 @@
 <hr/>
 
 <h3 align="center">~A guy with nothing better to do~</h3>
-<h3 align="center">📓 currently studying System Development<br>at ETEC Zona Leste</h3>
+<h3 align="center">📓 currently studying Analysis and System Development<br>at FATEC Zona Leste</h3>
 
 <br/>
 <div align="center"> 
