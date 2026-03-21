@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7203F7FF&section=header"/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7203F7&random=false&width=435&lines=Hello;Nice+to+meet+you!!!" alt="Typing SVG" /> 
- <img width="130" src="sprites/sonic-sprite.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7203F7&random=false&width=435&lines=Hello+Nice+to+meet+you!!!" alt="Typing SVG" /> 
 </h3>
 <hr/>
 
@@ -24,7 +23,7 @@
  
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Aparecido-Rodrigues&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF" />
   
-<img  src="https://github-readme-stats.vercel.app/api?username=Bruno-Aparecido-Rodrigues&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=7203F7FF" alt="readme stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bruno-Aparecido-Rodrigues&show_icons=true&theme=transparent&hide_border=true" />
 </div>
 <br> 
 <div align="center">
